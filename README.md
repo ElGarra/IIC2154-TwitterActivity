@@ -1,6 +1,6 @@
-# IIC2154-TwitterActivity
+# IIC2154-TwitterActivity :rocket:
 
-## Para el desarrollo de códiog, se generó un ambiente virutal de desarrollo. por lo tanto, antes de correr el Notebook se debe seguir los siguientes pasos: 
+## Para el desarrollo de código, se generó un ambiente virutal de desarrollo. Por lo tanto, antes de correr el Notebook se debe seguir los siguientes pasos: 
 
 ### 0. Situarse en el directorio raiz
 
